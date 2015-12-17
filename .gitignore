@@ -1,0 +1,4 @@
+# don't commit generated host keys
+host_keys/*
+!host_keys/.gitkeep
+authorized_keys
